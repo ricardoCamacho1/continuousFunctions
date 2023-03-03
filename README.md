@@ -1,2 +1,2 @@
 # continuousFunctions
-Continuous Functions in Python
+Continuous Functions for Continuous Topologies in Python
